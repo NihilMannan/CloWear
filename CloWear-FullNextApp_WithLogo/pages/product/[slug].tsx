@@ -1,1 +1,0 @@
-// Dynamic product page content goes here
